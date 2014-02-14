@@ -1,7 +1,7 @@
 microtable
 ==========
 
-Java simple table class
+Java simple table class. 
 Current implementation much faster for operations with rows, not columns
 
 ## Features 
