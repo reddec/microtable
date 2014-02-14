@@ -1,11 +1,11 @@
-package org.bar.microtable;
+package org.reddec.microtable;
 
 import java.util.ArrayList;
 import java.util.List;
 
 /**
  *
- * @author baryshnikov
+ * @author reddec
  */
 public class Table<T> implements ITable<T> {
 

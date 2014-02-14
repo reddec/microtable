@@ -1,11 +1,11 @@
-package org.bar.microtable;
+package org.reddec.microtable;
 
 import java.util.List;
 
 /**
  * Simple table interface
  *
- * @author baryshnikov
+ * @author reddec
  * @param <T> Table type
  */
 public interface ITable<T extends Object> {
