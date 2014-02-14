@@ -1,5 +1,6 @@
-package org.bar.microtable;
+package org.reddec.microtable;
 
+import org.reddec.microtable.Table;
 import java.util.LinkedList;
 import junit.framework.Test;
 import junit.framework.TestCase;
