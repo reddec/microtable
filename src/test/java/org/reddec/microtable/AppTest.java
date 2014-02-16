@@ -58,5 +58,7 @@ public class AppTest
 
         assertEquals("+", t1.getCell(4, 4));
 
+        t1.removeColumn(3);
+        System.out.println(t1.toString());
     }
 }
