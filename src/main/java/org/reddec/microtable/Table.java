@@ -137,6 +137,7 @@ public class Table<T> implements ITable<T> {
         }
         for (int i = 0; i < getHeight(); ++i) {
             rows.get(i).remove(index);
+            --columnCount;
         }
         return true;
     }
